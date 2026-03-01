@@ -81,3 +81,5 @@ This ensured:
 ---
 
 ##  Output
+
+<img src="Media/output.jpeg" width="500">
