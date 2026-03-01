@@ -83,3 +83,6 @@ This ensured:
 ##  Output
 
 <img src="Media/output.jpeg" width="500">
+
+## Author  
+GUNI REDDY CHARAN KUMAR REDDY
